@@ -1,0 +1,22 @@
+HTTrack3.48-22+htsswf+htsjava launched on Thu, 05 Jan 2017 13:21:47 at http://coderthemes.com/adminto/light/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" http://coderthemes.com/adminto/light/ -O1 "C:\adminto\admintoLight" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/Popover requires tooltip.js (from coderthemes.com/adminto/light/assets/js/bootstrap.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/GET (from coderthemes.com/adminto/light/assets/plugins/custombox/dist/custombox.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/Trident/ (from coderthemes.com/adminto/light/assets/plugins/tinymce/tinymce.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/Edge/ (from coderthemes.com/adminto/light/assets/plugins/tinymce/tinymce.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/plugins/ (from coderthemes.com/adminto/light/assets/plugins/tinymce/tinymce.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/zlib/deflate.js (from coderthemes.com/adminto/light/assets/plugins/datatables/jszip.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/zlib/inflate.js (from coderthemes.com/adminto/light/assets/plugins/datatables/jszip.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/[Content_Types].xml (from coderthemes.com/adminto/light/assets/plugins/datatables/buttons.html5.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/workbook.xml (from coderthemes.com/adminto/light/assets/plugins/datatables/buttons.html5.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/sheet1.xml (from coderthemes.com/adminto/light/assets/plugins/datatables/buttons.html5.min.js)
+13:24:46	Error: 	"Not Found" (404) at link coderthemes.com/adminto/light/buttons.pdf (from coderthemes.com/adminto/light/assets/plugins/datatables/buttons.html5.min.js)
+
+HTTrack Website Copier/3.48-22 mirror complete in 2 minutes 59 seconds : 285 links scanned, 273 files written (10659418 bytes overall) [4315295 bytes received at 24107 bytes/sec], 8501601 bytes transferred using HTTP compression in 202 files, ratio 24%, 23.7 requests per connection
+(11 errors, 0 warnings, 0 messages)
